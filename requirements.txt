@@ -4,7 +4,6 @@ astor==0.8.0
 astroid==2.3.3
 attrs==19.3.0
 backcall==0.1.0
-bleach==3.1.0
 blinker==1.4
 certifi==2019.11.28
 cffi==1.13.0
@@ -91,8 +90,6 @@ Send2Trash==1.5.0
 six==1.12.0
 statsmodels==0.11.0
 tensorboard==2.0.0
-tensorflow==2.0.0
-tensorflow-estimator==2.0.0
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
@@ -103,7 +100,6 @@ tweepy==3.8.0
 urllib3==1.24.2
 wcwidth==0.1.8
 webencodings==0.5.1
-Werkzeug==0.14.1
 win-inet-pton==1.1.0
 wincertstore==0.2
 wrapt==1.11.2
