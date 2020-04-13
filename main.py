@@ -16,10 +16,9 @@ user = api.get_user(handle)
 
 # HARDCODED TWEET TIMES
 times = [
-    [11, 27], # in hours, minutes format without leading 0s 
+    [7, 8], # in hours, minutes format without leading 0s 
     [12, 10],
-    [17, 7]]
-offset = '+0000'
+    [17, 43]]
 
 # PUBLISH TWEET - DONE
 def tweet(msg, log):
