@@ -1,4 +1,4 @@
-# evergreentweets
+# Evergreen Tweets
 Automated posting of evergreen tweets at certain periods of the day
 
 An app created by @5amwiltshire. 
